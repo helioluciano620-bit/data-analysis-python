@@ -1,5 +1,5 @@
 
-"""mean_var_std.py
+"""
 # 
 """
 import numpy as np
